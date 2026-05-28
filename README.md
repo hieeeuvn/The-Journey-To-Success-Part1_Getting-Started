@@ -1,1 +1,1 @@
-A repository contains .py files created by hieeeuvn.
+An archive containing things that help Hieu learn coding
