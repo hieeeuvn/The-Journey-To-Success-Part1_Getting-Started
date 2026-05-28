@@ -1,2 +1,1 @@
-# The-Journey-To-Success_Python
-The Journey To Success (Python)
+A repository contains .py files created by hieeeuvn.
