@@ -1,1 +1,1 @@
-An archive containing things that help Hieu learn coding
+A repository contains files helped hieeeuvn on his coding journey.
