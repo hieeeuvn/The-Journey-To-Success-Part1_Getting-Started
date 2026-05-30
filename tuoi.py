@@ -1,12 +1,12 @@
-age = 100000
+age = input("Bạn năm nay bao nhiêu tuổi? :"
 
 if age < 10:
-	print("con nít")
+	print("Bạn là thằng con nít")
 elif age < 18:
-	print("trẻ trâu")
+	print("Bạn là trẻ trâu")
 	if age >= 5 and age <= 17:
-		print("trẻ nghé")
+		print("Bạn là trẻ nghé")
 elif age >= 18 and age <= 50:
-	print("Người lớn")
+	print("Bạn là người lớn")
 else:
-	print("người già")
+	print("Bạn là người già")
